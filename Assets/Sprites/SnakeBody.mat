@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SnakeBodyMaterial
+  m_Name: SnakeBody
   m_Shader: {fileID: -6465566751694194690, guid: 9e94d870d4c5986459d7c892ea70993e, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -92,12 +92,12 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _BotColor: {r: 0.09019608, g: 0.2627451, b: 0.62352943, a: 0}
+    - _BotColor: {r: 0.75538445, g: 0.8015898, b: 0.9150943, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _TopColor: {r: 0.30980393, g: 0.49019608, b: 0.92941177, a: 0}
+    - _TopColor: {r: 0.090196066, g: 0.25882348, b: 0.62352943, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &2131863052900110173
+--- !u!114 &4772672921020939497
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
